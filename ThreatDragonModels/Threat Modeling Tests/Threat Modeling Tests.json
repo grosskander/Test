@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Threat Modeling Tests",
+    "owner": "Humain Machine",
+    "description": "Blablabla"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Title",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Humain"
+  }
+}
